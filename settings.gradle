@@ -3,6 +3,9 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
+        maven {
+            url "https://maven.pkg.jetbrains.space/kotlin/p/kotlin/dev/"
+        }
     }
 }
 dependencyResolutionManagement {
@@ -12,6 +15,9 @@ dependencyResolutionManagement {
         mavenCentral()
         maven {
             url "https://androidx.dev/storage/compose-compiler/repository/"
+        }
+        maven {
+            url "https://maven.pkg.jetbrains.space/kotlin/p/kotlin/dev/"
         }
     }
 }
