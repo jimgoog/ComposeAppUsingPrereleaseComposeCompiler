@@ -9,9 +9,8 @@ the final builds published on Gmaven, so adopt at your own risk.
 
 # Compatibility table
 
-| Kotlin Version | Compose Compiler Version         |
-|----------------|----------------------------------|
-| 1.6.20-M1      | 1.2.0-dev-k1.6.20-M1-5b767693182 |
+To see a table of Kotlin versions and their matching Compose Compiler versions, check out the compatibility table on androidx.dev:
+(https://androidx.dev/storage/compose-compiler/repository)[https://androidx.dev/storage/compose-compiler/repository]
 
 # Project Configuration
 
@@ -31,6 +30,6 @@ Specifically, there are two things to point out:
 
     ```
       composeOptions {
-        kotlinCompilerExtensionVersion "1.2.0-dev-k1.6.20-M1-5b767693182"
+        kotlinCompilerExtensionVersion "1.2.0-dev-k1.6.20-RC-21f332eaa05"
       }
    ```
