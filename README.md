@@ -10,7 +10,7 @@ the final builds published on Gmaven, so adopt at your own risk.
 # Compatibility table
 
 To see a table of Kotlin versions and their matching Compose Compiler versions, check out the compatibility table on androidx.dev:
-(https://androidx.dev/storage/compose-compiler/repository)[https://androidx.dev/storage/compose-compiler/repository]
+[https://androidx.dev/storage/compose-compiler/repository](https://androidx.dev/storage/compose-compiler/repository)
 
 # Project Configuration
 
