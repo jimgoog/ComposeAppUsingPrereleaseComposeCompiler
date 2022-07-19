@@ -19,7 +19,7 @@ the Compose Compiler, while pointing to stable versions of the Compose UI librar
 
 Specifically, there are two things to point out:
 
- - [settings.gradle:14](https://github.com/jimgoog/ComposeAppUsingPrereleaseComposeCompiler/blob/main/settings.gradle#L14) adds the maven repository:
+ - [settings.gradle:17](https://github.com/jimgoog/ComposeAppUsingPrereleaseComposeCompiler/blob/main/settings.gradle#L17) adds the maven repository:
    
    ```
       maven {
