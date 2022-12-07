@@ -36,7 +36,7 @@ android {
         compose true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion "1.2.0-dev-k1.6.20-RC2-727605f905e"
+        kotlinCompilerExtensionVersion "1.4.0-dev-k1.8.0-Beta-73ea385313b"
     }
     packagingOptions {
         resources {
@@ -60,7 +60,7 @@ dependencies {
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
 }
 
-
+/*
 tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
     kotlinOptions {
         jvmTarget = "1.8"
@@ -70,3 +70,4 @@ tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
         ]
     }
 }
+*/
