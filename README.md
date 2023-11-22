@@ -30,6 +30,6 @@ Specifically, there are two things to point out:
 
     ```
       composeOptions {
-        kotlinCompilerExtensionVersion "1.2.0-dev-k1.6.20-RC2-727605f905e"
+        kotlinCompilerExtensionVersion "1.5.5-dev-k2.0.0-Beta1-06b8ae672a4"
       }
    ```
